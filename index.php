@@ -6,10 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="./tabuada.php">tabuada</a>
-    <p></p>
-    <a href="./teste.php">teste</a>
-    <p></p>
-    <a href="./par.php">teste</a>
+    <a href="./tabuada.php">tabuada</a>;
+    <p></p>;
+    <a href="./teste.php">teste</a>;
+    <p></p>;
+    <a href="./par.php">par</a>;
+    <p></p>;
+    <a href="./primo.php">Primo</a>;
 </body>
 </html>
